@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Development Engineer | AI & GenAI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%2F+ML+Builder;LLM+Integration+Explorer;Future+Top+SDE" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%2F+ML+Builder;LLM+Integration+Explorer" />
 </p>
 
 ---
